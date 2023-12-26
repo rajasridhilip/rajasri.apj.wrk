@@ -1,0 +1,1049 @@
+/* PreHeader Section Start */
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.PreHeader{
+    background: #023b6d;
+    height: 30px;
+    width: 100%;
+    display: flex;
+}
+.bootlogo{
+    height: 30px;
+    width: 250px;
+}
+.logo{
+  
+}
+.preview-icon{
+    margin: 0px;
+    margin-left: 35px;
+    font-size: 20px;
+    color: gray;
+}
+.iconfirst{
+    padding: 7px;
+}
+.iconsecond{
+    padding: 7px;
+}
+.iconthird{
+    padding: 7px;
+}
+.iconfirst{
+    color: white;
+}
+.iconsecond:hover{
+    color: white;
+}
+.iconthird:hover{
+    color: white;
+}
+.templateheader{
+
+}
+.headtopic{
+    margin: 2px;
+    margin-left: 420px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.freedownlode{
+    background: lightseagreen;
+    margin: 0px;
+    margin-left: 475px;
+    width: 145px;
+    text-align: center;
+    padding-top: 4px;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: sans-serif;
+}
+/* PreHeader Section End */
+/* Header section Start */
+.Headersection{
+    display: flex;
+    background: white;
+    height: 80px;
+}
+.startinglefthead{
+    margin: 25px;
+    margin-left: 25px;
+    font-size: 30px;
+    color:#343a40;
+    font-family: 'Montserrat', sans-serif;
+}
+.headdot{
+    font-size: 50px;
+    color:white;
+}
+.menuitems{
+    margin: 0;
+    position: absolute;
+    left: 210px;
+}
+.list{
+    padding: 25px;    
+    cursor: pointer;  
+    display: inline-block;    
+}
+.listmenu{
+    text-decoration: none;
+    font-size: 16px;
+    color: gray;
+    font-family: 'Poppins', sans-serif;
+}
+.listmenu:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.headersideicon{
+    opacity: 0;
+}
+.button{
+    position: relative;
+    left: 425px;
+    top: 2px;
+    background: blue;
+    padding: 8px 20px;
+    border-radius: 6px;
+    color: white;
+    text-decoration: none;
+}
+.button:hover{
+    background-color: skyblue;
+    color: white;
+    text-decoration: none;
+}
+/* Header section End */
+/* Home section Start */
+.HomeSection{
+    background:white;
+    height: 870px;
+}
+.homesectionpart{
+
+}
+.homesectionimage{
+    background-image: url(https://bootstrapmade.com/demo/templates/HeroBiz/assets/img/hero-carousel/hero-carousel-3.svg);
+    height: 600;
+    width: 600;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 500px;
+    top: 110px;
+}
+.imagebuttomtopic{
+    margin-left: 470px;
+    font-size: 45px;
+    color: #343a40;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    top: 18px;
+}
+.imtoptopic{
+    margin-left: 0px;
+    font-size: 45px;
+    color: deepskyblue;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    top: 0;
+}
+.imagepara{
+    margin-left: 300px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+}
+.homebutton{
+    background: skyblue;
+    padding: 10px 25px;
+    position: relative;
+    left: 500px;
+    top: 0px;
+    border-radius: 7px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.watchvideo{
+    margin-left: 530px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    top: 0px;
+    color: navy;
+}
+.wvbutton{
+    font-size: 40px;
+    color: skyblue;
+    position: relative;
+    top: 7;
+}
+.wvbutton:hover{
+    color: navy;
+}
+.fourdividecontent{
+    background: white;
+    height: 300;
+    width: 100%;
+}
+.homesectioncontent{
+    background: white;
+    height: 230px;
+    width: 300px;
+    display: inline-block;
+    margin: 37px;
+    box-shadow: 2px 2px 10px gray;
+}
+.homesectioncontent:hover{
+    box-shadow: 8px 5px 20px gray;
+}
+.contenttopic{
+    position: relative;
+    top: 20px;
+    left: 30px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.contentpara{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 6px;
+    line-height: 26px;
+    position: relative;
+    top: 0;
+    margin: 18px;
+    left: 13px;
+}
+.HM1{
+    font-size: 45px;
+    color: blue;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+.HM2{
+    font-size: 45px;
+    color: blue;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+.HM3{
+    font-size: 45px;
+    color: blue;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+.HM4{
+    font-size: 45px;
+    color: blue;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+/* Home section End */
+/* About section Start */
+.Aboursection{
+    background: white;
+    height: 750px;
+    width: 100%;
+}
+.aboutsectiontopics{
+
+}
+.aboutheader{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Montserrat';
+    font-weight: inherit;
+    color: dimgray;
+}
+.aboutparacontent{
+    text-align: center;
+    margin: 0px;
+    font-size: 18px;
+    position: absolute;
+    top: 55px;
+    font-family: 'Poppins', sans-serif;
+    color: silver;
+}
+.twodivimagecontent{
+    display: flex;
+}
+.firstimage{
+    background-image: url(https://bootstrapmade.com/demo/templates/HeroBiz/assets/img/about.jpg);
+    background-repeat: no-repeat;
+    height: 550;
+    width: 450;
+    background-size: contain;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.secondcontent{
+    background: white;
+    height: 550px;
+    width: 700;
+    margin-left: 20px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.bigcontent{
+    font-size: 37px;
+    font-family: math;
+    position: absolute;
+    top: 1400px;
+    margin: 60px;
+    left: 644px;
+}
+.linetopic{
+    margin: 10px;
+    position: relative;
+    top: 130px;
+    left: 25px;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+.bigpara{
+    position: relative;
+    top: 125px;
+    left: 35px;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: gray;
+}
+.topicline1{
+    position: relative;
+    top: 90px;
+    left: 70px;
+    font-size: 17px;
+    font-family: 'Poppins';
+    color: blue;
+}
+.topicpara1{
+    position: relative;
+    top: 65px;
+    left: 37px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+}
+.topicline2{
+    position: relative;
+    top: 25px;
+    left: 70px;
+    font-size: 17px;
+    font-family: 'Poppins';
+    color: blue;
+}
+.topicpara2{
+    position: relative;
+    top: 0px;
+    left: 37px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+}
+.topicline3{
+    position: absolute;
+    top: 1840px;
+    left: 740px;
+    font-size: 17px;
+    font-family: 'Poppins';
+    color: blue;
+}
+.topicpara3{
+    position: absolute;
+    top: 1880px;
+    left: 680px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    margin: 24px;
+}
+.twoicons{
+    color: skyblue;
+    font-size: 18px;
+}
+.icon11{
+    position: relative;
+    top: 140px;
+    left: 40px;
+}
+.icon22{
+    position: relative;
+    top: 75px;
+    left: 40px;
+}
+.icon33{
+    position: relative;
+    top: 0px;
+    left: 40px;
+}
+/* About section End */
+/* Services section Start */
+.Servicessection{
+    background: white;
+    height: 850px;
+}
+.ourservicestopic{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Montserrat';
+    font-weight: inherit;
+    color: dimgray;
+}
+.ourserviespara{
+    font-size: 18px;
+    position: absolute;
+    top: 55;
+    font-family: 'Poppins', sans-serif;
+    color: silver;
+    left: 110px;
+}
+.sixport{
+    height: 250px;
+    width: 390px;
+    display: inline-block;
+    margin: 50px;
+    background-size: cover;
+    border-radius: 20px;
+}
+.imagefirstfirst{
+    background-image: url(services-1.jpg);
+}
+.imagefirstsecond{
+    background-image: url(services-2.jpg);
+}
+.imagefirstthird{
+    background-image: url(services-3.jpg);
+}
+.imagefirstfourth{
+    background-image: url(services-4.jpg);
+}
+.imagefirstfiveth{
+    background-image: url(services-5.jpg);
+}
+.imagefirstsixth{
+    background-image: url(services-6.jpg);
+}
+.slider{
+    background-color:snow;
+    height: 180px;
+    width: 300px;
+    text-align: center;
+    position: relative;
+    top: 45px;
+    left: 45px;
+    box-shadow: 1px 1px 10px;
+}
+.imageheader{
+    position: relative;
+    top: 50px;
+    font-size: 20px;
+    font-family: 'Poppins';
+}
+.iimagepara{
+    position: relative;
+    top: 40px;
+    font-size: 16px;
+    font-family: 'Montserrat';
+    word-spacing: 3px;
+}
+.ouricon{
+    font-size: 30;
+    background-color: skyblue;
+    border-radius: 40px;
+    padding: 20px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 155px;
+    z-index: 1;
+}
+/* Services section End */
+/* Team section Start */
+.ourteamtopcontentt{
+
+}
+.ourteamtopic{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Montserrat';
+    font-weight: inherit;
+    color: dimgray;
+}
+.ourteampara{
+    text-align: center;
+    margin: 0px;
+    font-size: 18px;
+    position: absolute;
+    top: 55px;
+    font-family: 'Poppins', sans-serif;
+    color: silver;
+}
+.Teamsection{
+    background:white;
+    height: 700px;
+}
+.threeport{
+    display: inline-block;
+}
+.teamimagethree{
+    height: 350px;
+    width: 310px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 14px;
+    margin: 65px;
+    border-radius: 10px;
+}
+.teamimagethree:hover{
+
+}
+.teamcontent{
+    background: white;
+    text-align: center;
+    position: relative;
+    top: 300px;
+    height: 80px;
+    box-shadow: 1px 1px 10px;
+}
+.teammem{
+    font-size: 20px;
+    font-family: 'Poppins';
+    position: relative;
+    top: 20px;
+}
+.teamdepartment{
+    color: gray;
+    font-family: 'Poppins';
+}
+.iconsTeam{
+    padding: 145px;
+}
+.iconsteam:hover{
+   
+}
+.teamicons1:hover{
+   
+}
+.teamicons1{
+    position: absolute;
+    top: 3400px;
+    left: 130px;
+    background: red;
+    padding: 15px;
+    border-radius: 100px;
+    font-size: 18px;
+    opacity: 0;
+}
+.teamicons2{
+    position: absolute;
+    top: 3400px;
+    left: 185px;
+    background: red;
+    padding: 15px;
+    border-radius: 100px;
+    font-size: 18px;
+    opacity: 0;
+}
+.teamicons3{
+    position: absolute;
+    top: 3400px;
+    left: 240px;
+    background: red;
+    padding: 15px;
+    border-radius: 100px;
+    font-size: 18px;
+    opacity: 0;
+}
+.teamicons4{
+    position: absolute;
+    top: 3400px;
+    left: 295px;
+    background: red;
+    padding: 15px;
+    border-radius: 100px;
+    font-size: 18px;
+    opacity: 0;
+}
+.startimage{
+    background-image: url(wrkimg1.jpg);
+}
+.midleimage{
+    background-image: url(wrkimg2.jpg);
+    position: relative;
+    left: 50px;
+}
+.endimage{
+    background-image: url(wrkimg3.jpg);
+}
+/* Team section End */
+/* Contact section Start */
+.Contactsection{
+    background: white;
+    height: 800;
+}
+.ourcontact_topcontentt{
+
+}
+.ourcontacttopic{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Montserrat';
+    font-weight: inherit;
+    color:dimgray;
+}
+.ourcontactpara{
+    text-align: center;
+    margin: 0px;
+    font-size: 18px;
+    position: absolute;
+    top: 55px;
+    font-family: 'Poppins', sans-serif;
+    color: silver;
+}
+.twodivcontact{
+    display: flex;
+}
+.contactget{
+    background: white;
+    height: 340;
+    width: 350;
+    position: relative;
+    top: 100px;
+    left: 120px;
+    box-shadow: 2px 2px 10px gray;
+}
+.getintouch{
+    font-size: 20px;
+    font-family: 'Montserrat';
+    margin-left: 30px;
+}
+.contactpara{
+    font-size: 15px;
+    font-family: system-ui;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+    line-height: 1;
+    color: dimgray;
+}
+.contactlocation{
+    margin-top: 70px;
+    margin-left: 60px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.locationicon{
+    position: absolute;
+    top: 120px;
+    left: 26px;
+    font-size: 25px;
+    color: blue;
+}
+.locationadd{
+    position: absolute;
+    top: 145px;
+    left: 65px;
+    font-family: 'Poppins';
+    font-size: 13px;
+    color: dimgray;
+}
+.contactemail{
+    margin-top: 60px;
+    margin-left: 60px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.emailicon{
+    position: absolute;
+    top: 200px;
+    left: 26px;
+    font-size: 25px;
+    color: blue;
+}
+.mailadd{
+    position: absolute;
+    top: 225px;
+    left: 65px;
+    font-family: 'Poppins';
+    font-size: 13px;
+    color: dimgray;
+}
+.contactnum{
+    margin-top: 55px;
+    margin-left: 60px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.contacticon{
+    position: absolute;
+    top: 280px;
+    left: 26px;
+    font-size: 25px;
+    color: blue;
+}
+.number{
+    position: absolute;
+    top: 300px;
+    left: 65px;
+    font-family: 'Poppins';
+    font-size: 13px;
+    color: dimgray;
+}
+.toknowmore{
+    position: relative;
+    left: 200px;
+    top: 100px;
+    background: white;
+    height: 500;
+    width: 750;
+}
+.usinginput{
+
+}
+.in1{
+    border: 1px solid #b3dcdc;
+    font-size: medium;
+    padding: 17px;
+    padding-right: 197px;
+}
+.inputtwo{
+    margin-left: 430px;
+    position: absolute;
+    top: 0;
+}
+.in2{
+    border: 1px solid #b3dcdc;
+    font-size: medium;
+    padding: 17px;
+    padding-right: 197px;
+}
+.singlediv{
+    
+}
+.in3{
+    border: 1px solid #b3dcdc;
+    font-size: medium;
+    padding: 17px;
+    padding-right: 627px;
+    position: relative;
+    top: 20px;
+}
+.singlebigdiv{
+    position: relative;
+    top: 40px;
+}
+.bigcontetn{
+    height: 350px;
+    width: 840px;
+}
+.imagelocation{
+    background-image: url(location.jpg);
+    height: 150;
+    width: 350px;
+    position: absolute;
+    top: 4255px;
+    left: 120px;
+    background-size: cover;
+}
+.buttonsend{
+    position: relative;
+    top: 80;
+    left: 400;
+    display: inline;
+    text-decoration: none;
+    background: cornflowerblue;
+    padding: 15px 25px;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+/* Contact section End */
+/* Footer section Start */
+.Footesection{
+    background-color: #485664;
+    height: 350;
+    width: 100%;
+    display: flex;
+}
+.footer_aboutus{
+    height: 350;
+    width: 300px;
+    position: relative;
+    left: 40px;
+}
+.ft_head{
+    font-size: 30px;
+    font-family: system-ui;
+    margin-left: 80px;
+    margin-top: 68px;
+    color: white;
+}
+.ft_street{
+    font-size: 13px;
+    font-family: 'Montserrat';
+    color: white;
+    margin-left: 82px;
+}
+.ft_num{
+    font-size: 13px;
+    font-family: 'Montserrat';
+    color: white;
+    margin-left: 82px;
+}
+.ft_phone{
+    position: relative;
+    top: 35px;
+    display: block;
+    left: 80px;
+    font-size: 13px;
+    color: white;
+    font-family: 'Montserrat';
+}
+.ft_mail{
+    position: relative;
+    top: 35px;
+    display: block;
+    left: 80px;
+    font-size: 13px;
+    color: white;
+    font-family: 'Montserrat';
+}
+.footerlist_useful{
+    height: 350;
+    width: 320px;
+}
+.ft_usehead{
+    font-size: 20px;
+    font-family: sans-serif;
+    position: relative;
+    top: 35px;
+    left: 70px;
+    color: white;
+}
+.ft_line1{
+    background: cornflowerblue;
+    height: 2px;
+    width: 86px;
+    margin-left: 70px;
+}
+.listuse_ft{
+    margin:20px;
+    margin-left: 25px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    color: white;
+}
+.ft_list{
+    display: flex;
+    padding: 8px;
+}
+.footerlist_services{
+    height: 350;
+    width: 320px;
+}
+.ft_line2{
+    background: cornflowerblue;
+    height: 2px;
+    width: 86px;
+    margin-left: 45px;
+}
+.ft_ourservices{
+    font-size: 20px;
+    font-family: sans-serif;
+    position: relative;
+    top: 35px;
+    left: 48px;
+    color: white;
+}
+.listour_ft{
+    margin:20px;
+    margin-left: 0px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    color: white;
+}
+.sec_ft{
+    display: flex;
+    padding: 8px;
+}
+.footer_final{
+    height: 350;
+    width: 500px;
+}
+.finalhead{
+    font-size: 20px;
+    font-family: sans-serif;
+    position: relative;
+    top: 35px;
+    left: 0px;
+    color: white;
+}
+.ft_line3{
+    background: cornflowerblue;
+    height: 2px;
+    width: 86px;
+    margin-left: 0px;
+}
+.finalpara{
+    font-size: 15px;
+    font-family: 'Poppins';
+    margin-left: 0px;
+    color: white;
+}
+.ft_input{
+    padding: 10px 90px;
+}
+.submit_ft{
+    padding: 10px 45px;
+    color: white;
+    background: deepskyblue;
+    position: absolute;
+    left: 1250;
+    border-color: deepskyblue;
+}
+
+/* Footer section End */
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+        .homesectioncontent{
+            background: white;
+            height: 230px;
+            width: 470px;
+            display: inline-block;
+            margin: 25px;
+            margin-left: 35px;
+        }
+        .startinglefthead {
+            font-size: 45px;
+        }
+        .imagebuttomtopic {
+            margin-left: 80px;
+            font-size: 35px;
+            top: 0;
+        }
+        .imtoptopic {
+            margin-left: 0px;
+            font-size: 40px;
+            color: deepskyblue;
+            font-family: 'Montserrat', sans-serif;
+            position: absolute;
+            top: 0;
+            left: 230px;
+        }
+        .listmenu{
+            display: none;
+        }
+       
+        .headersideicon {
+            opacity: 1;
+            font-size: 40px;
+            position: absolute;
+            top: 30px;
+            left: 350px;
+        }
+        .homesectionimage {
+            background-image: url(https://bootstrapmade.com/demo/templates/HeroBiz/assets/img/hero-carousel/hero-carousel-3.svg);
+            height: 600;
+            width: 600;
+            background-size: contain;
+            background-repeat: no-repeat;
+            position: relative;
+            left: 85px;
+            top: 110px;
+        }
+        .imagepara {
+            margin-left: 0;
+            font-size: 20px;
+            font-family: 'Poppins', sans-serif;
+            color: gray;
+            position: relative;
+            left: 120px;
+        }
+        .homebutton{
+            left: 80px;
+        }
+        .watchvideo{
+            margin-left: 0px;
+            position: absolute;
+            top: 900px;
+            left: 290px;
+        }
+        
+    }
+    @media screen and (min-width: 481px) and (max-width: 768px){
+        .homesectioncontent{
+            background-color: white;
+            height: 250px;
+            width: 450px;
+            display: inline-block;
+            margin: 14px;
+            margin-left: 45px;
+        }
+        .listmenu{
+            display: none;
+        }
+        .headersideicon{
+            display: block;
+            font-size: 40px;
+            position: absolute;
+            top: 0;
+            left: 250px;
+        }
+    }
+    @media screen and (min-width: 768px) and (max-width: 1024px){
+        .homesectioncontent{
+            background-color: white;
+            height: 230px;
+            width: 300px;
+            display: inline-block;
+            margin: 14px;
+            margin-left: 40px;
+        }
+        .headersideicon{
+            display: block;
+            font-size: 40px;
+            position: absolute;
+            top: 0;
+            left: 450px;
+        }
+    }
+    @media screen and (min-width: 1025px) and (max-width: 1200px){
+        .homesectioncontentr{
+            background-color: white;
+            height: 230px;
+            width: 300px;
+            display: inline-block;
+            margin: 20px;
+            text-align: center;
+            margin-left: 100px;
+        }
+        .menuitems {
+            margin: 0;
+            position: absolute;
+            top: 0px;
+            left: 200px;
+        }
+        .button {
+            position: relative;
+            left: 560px;
+            top: 2px;
+            background: blue;
+            padding: 8px 20px;
+            border-radius: 6px;
+            color: white;
+            text-decoration: none;
+        }
+    }
+
+
+    
